@@ -68,7 +68,6 @@ int sub(int a, int b) {
 int mul(int a, int b) {
     return a * b;
 }
-om
 float divide(int a, int b) {
     return (float)a / b;//adawdawd
 }
