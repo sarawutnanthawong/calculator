@@ -71,3 +71,7 @@ int mul(int a, int b) {
 float divide(int a, int b) {
     return (float)a / b;//adawdawd
 }
+<<<<<<< HEAD
+//dawdawdhawgdrwdedwrgtyhujikowdawtdfrwtfgyhujikowfwygfyawhfuawf
+=======
+>>>>>>> f521ff24397546767d96b6a840a1a31c17fe5c3a
